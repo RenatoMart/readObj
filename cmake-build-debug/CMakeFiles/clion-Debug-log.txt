@@ -1,0 +1,7 @@
+/home/renatomr/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/renatomr/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/renatomr/CLionProjects/readObj -B /home/renatomr/CLionProjects/readObj/cmake-build-debug
+-- Found OpenGL: /usr/lib/libOpenGL.so
+-- Found GLUT: /usr/lib/libglut.so
+-- WARNING: you are using the obsolete 'GLU' package, please use 'OpenGL' instead
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/renatomr/CLionProjects/readObj/cmake-build-debug

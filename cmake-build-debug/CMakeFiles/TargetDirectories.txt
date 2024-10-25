@@ -1,0 +1,3 @@
+/home/renatomr/CLionProjects/readObj/cmake-build-debug/CMakeFiles/PERSONAJE3D.dir
+/home/renatomr/CLionProjects/readObj/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/renatomr/CLionProjects/readObj/cmake-build-debug/CMakeFiles/rebuild_cache.dir

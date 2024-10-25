@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/renatomr/CLionProjects/readObj/cmake-build-debug",
+	"dir-cur-src" : "/home/renatomr/CLionProjects/readObj",
+	"dir-top-bld" : "/home/renatomr/CLionProjects/readObj/cmake-build-debug",
+	"dir-top-src" : "/home/renatomr/CLionProjects/readObj",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/renatomr/CLionProjects/readObj/cmake-build-debug/CMakeFiles/readObj.dir"
+}
